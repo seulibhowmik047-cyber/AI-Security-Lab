@@ -1,0 +1,103 @@
+
+# Lab Evidence
+
+## Purpose
+
+This directory documents the evidence collected during the AI Security lab.
+
+---
+
+## Evidence Categories
+
+### 1. Security Posture
+
+Evidence related to:
+
+- Defender for Cloud
+- Security posture
+- Security recommendations
+- Risk findings
+
+### 2. Identity and Access
+
+Evidence related to:
+
+- Identity
+- Authentication
+- Authorization
+- RBAC
+- Managed Identity
+- Least Privilege
+
+### 3. API Security
+
+Evidence related to:
+
+- API Management
+- API configuration
+- Authentication
+- Authorization
+- Monitoring
+
+### 4. Data Protection
+
+Evidence related to:
+
+- Data classification
+- Sensitive data protection
+- Access control
+- Data protection policies
+
+### 5. Prompt Security
+
+Evidence related to:
+
+- Prompt Injection
+- Prompt filtering
+- Prompt Shield
+- Keyword filtering
+- Block lists
+
+### 6. Threat Detection
+
+Evidence related to:
+
+- Security alerts
+- Suspicious activity
+- Risk assessment
+- Investigation
+
+### 7. Attack Path Analysis
+
+Evidence showing potential paths from compromised identities or resources to sensitive resources.
+
+---
+
+## Evidence Table
+
+| ID | Lab | Evidence | Status |
+|---|---|---|---|
+| E01 | Security Posture | Defender for Cloud screenshot | Pending |
+| E02 | Identity | Identity/RBAC screenshot | Pending |
+| E03 | API Security | API Management screenshot | Pending |
+| E04 | Data Protection | Data protection evidence | Pending |
+| E05 | Prompt Security | Prompt security evidence | Pending |
+| E06 | Threat Detection | Security alert screenshot | Pending |
+| E07 | Investigation | Investigation evidence | Pending |
+| E08 | Attack Path | Attack path evidence | Pending |
+
+---
+
+## Subscription / Licensing Limitation
+
+Some practical activities may require an active Azure subscription and specific Microsoft security licenses.
+
+Where those requirements are unavailable, the lab is documented as a theoretical or configuration exercise.
+
+No fabricated evidence is included.
+
+---
+
+## Evidence Principle
+
+> Evidence must represent an actual configuration, test, or result from the lab environment.
