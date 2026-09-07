@@ -1,0 +1,48 @@
+
+# Lab 04 – AI Data Protection
+
+## Objective
+
+Protect sensitive and confidential information processed by AI applications.
+
+---
+
+## Sensitive Data Examples
+
+- Financial information
+- Salary information
+- Tax information
+- Confidential documents
+- Internal project information
+- Credentials
+
+---
+
+## Steps
+
+1. Identify sensitive data.
+2. Classify the data.
+3. Identify who should have access.
+4. Configure access control.
+5. Apply least privilege.
+6. Identify possible data-exfiltration paths.
+7. Configure appropriate protection controls.
+8. Test unauthorized access scenarios.
+9. Document the result.
+
+---
+
+## Data Protection Flow
+
+```text
+User
+ ↓
+AI Application
+ ↓
+Sensitive Data Detection
+ ↓
+Authorization
+ ↓
+Allow / Block / Redact
+ ↓
+Response
